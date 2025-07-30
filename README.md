@@ -352,4 +352,4 @@ function delay(ms: number): Promise<void> {
 
 如果你也想使用Nodejs来编写修改器或者脚本，欢迎一起讨论！
 
-![qq.jpg](/docs/images/qq.png)
+![qq.jpg](/docs/images/qq.jpg)
